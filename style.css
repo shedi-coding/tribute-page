@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    
+     margin-inline: 0;
+}
+.section-3 {
+    background-color:aliceblue;
+    color:black;
+    display: flex;
+    align-items: center;
+}
+
+.deg {
+    display: flex;
+    justify-content: center;
+    width: 60vw;
+    flex-direction: column;
+    align-items: center;
+}
+.jobs-img {
+    display: flex;
+    justify-content: flex-end;
+    justify-self: flex-end;
+    width: 40vw;
+}
+.footer{
+    border-top: 2px solid rgb(19, 13, 13);
+    
+}
